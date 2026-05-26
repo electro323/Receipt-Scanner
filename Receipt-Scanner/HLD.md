@@ -431,4 +431,4 @@ The system follows a modular architecture using Ionic, NestJS, Tesseract OCR, an
 
 ## System Architecture Diagram
 
-![System Architecture](Receipt-Scanner/docs/architecture-diagram.PNG)
+![System Architecture](docs/architecture-diagram.png)
