@@ -37,6 +37,48 @@ The AI Receipt Scanner allows users to:
 - MongoDB
 
 ---
+## ⚙️ Setup Instructions
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/electro323/Receipt-Scanner.git
+cd Receipt-Scanner
+```
+
+---
+
+## Backend Setup (NestJS)
+
+```bash
+cd backend
+npm install
+npm run start:dev
+```
+
+Backend will run on:
+
+```text
+http://localhost:3000
+```
+
+---
+
+## Frontend Setup (Ionic)
+
+Open a new terminal:
+
+```bash
+cd frontend
+npm install
+ionic serve
+```
+
+Frontend will run on:
+
+```text
+http://localhost:8100
+```
 
 ##  Project Structure
 
