@@ -37,10 +37,6 @@ The AI Receipt Scanner allows users to:
 - MongoDB
 
 ---
-````md
-```
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -84,7 +80,10 @@ Frontend will run on:
 ```text
 http://localhost:8100
 ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> 28f4c35d8d552b649fafb587a135c9e69d9c8f7f
 
 ##  Project Structure
 
